@@ -12,7 +12,7 @@
   - Experimental methods such as Scanning tunneling microscopy (STM)
   - Advanced lithium-ion and all-solid-state battery development.  
   - High-temperature superconductor and vortex physics  
-- 📜 ** Patents **:  
+- 📜 **Patents**:  
   - Method and System for Material Screening  
      - U.S. patent application number 16/587937 was filed with the patent office on 2021-04-01 for method and system for material screening. The applicant listed for this patent is Nissan North America, Inc., United States of America as Represented by the Administrator of NASA.  
   - Method of control and control system of rechargeable lithium ion battery  
