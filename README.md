@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @aki-park
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there! I'm Akiyoshi Park 🦊
 
-# Akiyoshi Park
-<!---
-aki-park/aki-park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 **Physicist | Materials Engineer | Battery Scientist**  
+🎓 PhD Candidate in Physics at Caltech  
+💡 Passionate about advancing optoelectronics, semiconductor manufacturing, and battery technology.
+
+---
