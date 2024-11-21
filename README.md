@@ -16,6 +16,7 @@
 **Tools & Technologies**  
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![COMSOL](https://img.shields.io/badge/COMSOL-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![NX CAD](https://img.shields.io/badge/NXCAD-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)  
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)  
+![COMSOL Multiphysics](https://img.shields.io/badge/COMSOL-316CB0?style=for-the-badge&logo=comsol&logoColor=white)  
+
