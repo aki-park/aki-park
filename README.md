@@ -11,7 +11,11 @@
   - Optoelectronic materials (Transition metal dichalogenides including MoS2 and MoSe2)  
   - Computational modeling including Density functional theory (DFT) Molecular Dynamics (MD) and Finite Difference Time Domain (FDTD).  
   - Experimental methods such as Scanning tunneling microscopy (STM)  
-  - High-temperature superconductor and vortex physics  
+  - High-temperature superconductor and vortex physics
+  - 
+- 🎓 **Mentor & Educator**:  
+  - Mentored undergraduate research students at Caltech : 2019, 2020, 2021, 2022, 2023, 2024
+  - Recitation Teaching assistant at Caltech : 
 ---
 
 ## 🔧 Tech Stack  
@@ -41,7 +45,6 @@
 - Exciton manipulation in 2D Semiconductor Devices
 - Surface Plasmon Polariton enhanced Light-matter interactions
 - Designing high-precision scientific instruments (Optically assisted Scanning tunneling microscope)
-- 
 
 ---
 
