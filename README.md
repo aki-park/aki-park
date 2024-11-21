@@ -6,16 +6,16 @@
 
 ## 🌟 About Me  
 - 🧪 **Expertise**:  
-  - Advanced lithium-ion and all-solid-state battery development.  
-  - Semiconductor manufacturing including SEM, TEM, FIB, EBPG, photolithography  
+  - Semiconductor manufacturing techniques including SEM, TEM, FIB, EBPG, photolithography, crystal growth (flux method, floating zone method), metal deposition.  
   - Optoelectronic materials (Transition metal dichalogenides including MoS2 and MoSe2)  
   - Computational modeling including Density functional theory (DFT) Molecular Dynamics (MD) and Finite Difference Time Domain (FDTD).  
-  - Experimental methods such as Scanning tunneling microscopy (STM)  
+  - Experimental methods such as Scanning tunneling microscopy (STM)
+  - Advanced lithium-ion and all-solid-state battery development.  
   - High-temperature superconductor and vortex physics
   - 
 - 🎓 **Mentor & Educator**:  
   - Mentored undergraduate research students at Caltech : 2019, 2020, 2021, 2022, 2023, 2024
-  - Recitation Teaching assistant at Caltech : 
+  - Recitation Teaching assistant at Caltech : Ph1a (Classical Mechanics), Ph1b (Electricity and Magnetism), Ph2b (Quantum Mechanics), Ph2c (Statistical Mechanics and Thermodynamics), APh/MS150c (Functional electronic materials), APh/MS105b (Phase transitions)
 ---
 
 ## 🔧 Tech Stack  
