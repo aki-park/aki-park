@@ -1,9 +1,15 @@
 # 👋 Hi there! I'm Akiyoshi Park 🦊
 
 🔬 **Physicist | Materials Engineer | Battery Scientist**  
-🎓 PhD Candidate in Physics at Caltech specializing in condensed matter physics
-💡 Passionate about advancing optoelectronics, semiconductor manufacturing, and battery technology.
+🎓 PhD Candidate in Physics at Caltech specializing in condensed matter physics.  
+💡 Passionate about advancing optoelectronics, semiconductor manufacturing, and battery technology.  
 
+## 🌟 About Me  
+- 🧪 **Expertise**:  
+  - Advanced lithium-ion and all-solid-state battery development.  
+  - Semiconductor manufacturing and optoelectronic materials.  
+  - Computational modeling including Density functional theory (DFT) Molecular Dynamics (MD) and Finite Difference Time Domain (FDTD).
+  - Experimental methods such as Scanning tunneling microscopy (STM), 
 ---
 
 ## 🔧 Tech Stack  
@@ -31,7 +37,9 @@
 ## ✨ Research Interests
 - Magnetic Topological Insulators and the Quantum Anomalous Hall Effect
 - Exciton manipulation in 2D Semiconductor Devices
+- Surface Plasmon Polariton enhanced Light-matter interactions
 - Designing high-precision scientific instruments (Optically assisted Scanning tunneling microscope)
+- 
 
 ---
 
