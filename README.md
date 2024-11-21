@@ -14,7 +14,7 @@
   - High-temperature superconductor and vortex physics  
 - 📜 ** Patents **:
   - Method and System for Material Screening
-     - U.S. patent application number 16/587937 was filed with the patent office on 2021-04-01 for method and system for material screening. The applicant listed for this patent is Nissan North America, Inc., United States of America as Represented by the Administrator of NASA. Invention is credited to Najamuddin Mirza Baig, Taehee Han, Shreyas Honrao, Shigemasa Kuwata, John Lawson, Mohit Rakesh Mehta, Atsushi Ohma, Akiyoshi Park, Balachandran Gadaguntla Radhakrishnan, Maarten Sierhuis, Xin Yang. 
+     - U.S. patent application number 16/587937 was filed with the patent office on 2021-04-01 for method and system for material screening. The applicant listed for this patent is Nissan North America, Inc., United States of America as Represented by the Administrator of NASA.
 - 🎓 **Mentor & Educator**:  
   - Mentored undergraduate research students at Caltech : 2019, 2020, 2021, 2022, 2023, 2024
   - Recitation Teaching assistant at Caltech : Ph1a (Classical Mechanics), Ph1b (Electricity and Magnetism), Ph2b (Quantum Mechanics), Ph2c (Statistical Mechanics and Thermodynamics), APh/MS150c (Functional electronic materials), APh/MS105b (Phase transitions)
