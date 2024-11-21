@@ -7,9 +7,11 @@
 ## 🌟 About Me  
 - 🧪 **Expertise**:  
   - Advanced lithium-ion and all-solid-state battery development.  
-  - Semiconductor manufacturing and optoelectronic materials.  
-  - Computational modeling including Density functional theory (DFT) Molecular Dynamics (MD) and Finite Difference Time Domain (FDTD).
-  - Experimental methods such as Scanning tunneling microscopy (STM), 
+  - Semiconductor manufacturing including SEM, TEM, FIB, EBPG, photolithography  
+  - Optoelectronic materials (Transition metal dichalogenides including MoS2 and MoSe2)  
+  - Computational modeling including Density functional theory (DFT) Molecular Dynamics (MD) and Finite Difference Time Domain (FDTD).  
+  - Experimental methods such as Scanning tunneling microscopy (STM)  
+  - High-temperature superconductor and vortex physics  
 ---
 
 ## 🔧 Tech Stack  
