@@ -2,7 +2,6 @@
 
 🔬 **Physicist | Materials Engineer **  
 🎓 PhD Candidate in Physics at Caltech specializing in condensed matter physics.  
-💡 Passionate about advancing optoelectronics, semiconductor manufacturing, and battery technology.  
 
 ## 🌟 About Me  
 - 🧪 **Expertise**:  
